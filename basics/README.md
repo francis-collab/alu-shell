@@ -1,2 +1,2 @@
 #!/bin/bash : acts as a shell
-file /tmp/iamafile : prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
+ln -s /bin/ls __ls__ : creates a symbolic link to /bin/ls, named _ls_. The symbolic link should be created in the current working directory.
