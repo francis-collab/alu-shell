@@ -1,2 +1,2 @@
 #!/bin/bash : acts as a shell
-mv /tmp/betty /tmp/my_first_directory :moves the file betty from /tmp/ to /tmp/my_first_directory..
+rm /tmp/my_first_directory/betty : deleted the file betty which is in the /tmp/my_first_directory directory.
