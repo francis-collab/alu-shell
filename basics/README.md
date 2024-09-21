@@ -1,2 +1,2 @@
 #!/bin/bash : acts as a shell
-rm /tmp/my_first_directory/betty : deleted the file betty which is in the /tmp/my_first_directory directory.
+rmdir /tmp/my_first_directory : deletes the directory my_first_directory which is in /tmp directory.
