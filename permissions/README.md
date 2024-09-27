@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script prints all the groups the current user belongs to
+# This script changes the owner of the file 'hello' to the user 'betty'
