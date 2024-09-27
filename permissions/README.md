@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script sets the mode of the file 'hello' to a specific format
+# This script mirrors the permissions of the file 'olleh' to the file 'hello'
