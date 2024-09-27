@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script adds execute permission to all subdirectories of the current directory for the owner, group, and others
+# This script creates a directory 'my_dir' with permissions 751
