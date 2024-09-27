@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script adds execution permission to all users for the file 'hello'
+# This script sets the file permissions of 'hello' to ------rwx
