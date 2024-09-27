@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script adds execute permission to the owner, group, and read permission to others for the file 'hello'
+# This script adds execution permission to all users for the file 'hello'
