@@ -1,2 +1,1 @@
-# This script changes the owner and group owner of _hello to vincent and staff respectively.
-# The file _hello is in the working directory and is a symbolic link.
+# This script changes the owner of the file 'hello' to 'vincent' only if it is owned by 'guillaume'.
