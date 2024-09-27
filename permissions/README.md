@@ -1,2 +1,2 @@
 #!/bin/bash
-# This script creates a directory 'my_dir' with permissions 751
+# This script changes the group ownership of the file 'hello' to the group 'school'
