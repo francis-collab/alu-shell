@@ -1,1 +1,1 @@
-# This script changes the owner and group of the file 'hello' to 'betty' and 'school', respectively
+# This script changes the owner and the group owner of the symbolic link '_hello' to 'vincent' and 'staff' respectively.
