@@ -1,2 +1,1 @@
-#!/bin/bash
-# This script changes the group ownership of the file 'hello' to the group 'school'
+# This script changes the owner and group of the file 'hello' to 'betty' and 'school', respectively
