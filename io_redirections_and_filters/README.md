@@ -1,1 +1,1 @@
-# This script prints a confused smiley "(Ôo)' to the standard output.
+# This script displays the content of the /etc/passwd file.
