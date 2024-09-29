@@ -1,1 +1,1 @@
-# Delete all .js files in current directory and subdirectories
+# Count directories and sub-directories
