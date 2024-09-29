@@ -1,1 +1,1 @@
-# Duplicate the last line of iacta
+# Delete all .js files in current directory and subdirectories
