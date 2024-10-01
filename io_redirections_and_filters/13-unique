@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "Apple\nAvocado\nLemon\nPineapple\nMango\nMaracuja" | sort | uniq -u
+echo -e "Apple\nAvocado\nLemon\nPineapple\nMango\nMaracuja\nApple\nMango" | sort | uniq -u | sort
