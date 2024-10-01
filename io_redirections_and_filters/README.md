@@ -1,1 +1,1 @@
-#Displays lines containing "root" from `/etc/passwd`.
+#Displays lines with "root" and the following three lines.
