@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "Apple\nAvocado\nLemon\nPineapple\nMango\nMaracuja" | sort | uniq -u
