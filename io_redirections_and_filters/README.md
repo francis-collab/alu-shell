@@ -1,1 +1,1 @@
-#Prints words from a list that appear exactly once.
+#Displays lines containing "root" from `/etc/passwd`.
