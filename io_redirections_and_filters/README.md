@@ -1,1 +1,1 @@
-#Displays lines with "root" and the following three lines.
+#Displays lines of `/etc/ssh/sshd_config` that start with a letter.
