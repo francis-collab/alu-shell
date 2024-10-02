@@ -1,1 +1,1 @@
-#Removes 'c' and 'C' from input.
+#Reverses the input string.
