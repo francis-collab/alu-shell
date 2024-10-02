@@ -1,1 +1,2 @@
-#This script lists all `.gif` files in the current directory and its subdirectories, including hidden files. The output displays only the file names without their extensions, sorted by byte value in a case-insensitive manner. Each file name is printed on a new line.
+#This script decodes an acrostic poem by reading each line of the input file and extracting the first letter of each line, printing them as a single string.
+
