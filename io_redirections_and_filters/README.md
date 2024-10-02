@@ -1,1 +1,1 @@
-#Replaces 'A' with 'Z' and 'c' with 'e'.
+#Removes 'c' and 'C' from input.
