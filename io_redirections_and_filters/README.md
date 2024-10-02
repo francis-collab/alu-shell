@@ -1,1 +1,1 @@
-#Finds and displays all empty files and directories.
+#This script lists all `.gif` files in the current directory and its subdirectories, including hidden files. The output displays only the file names without their extensions, sorted by byte value in a case-insensitive manner. Each file name is printed on a new line.
