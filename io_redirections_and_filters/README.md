@@ -1,1 +1,1 @@
-#Reverses the input string.
+#Displays all users and their home directories sorted by users.
