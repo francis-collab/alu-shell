@@ -1,1 +1,1 @@
-#Displays lines of `/etc/ssh/sshd_config` that start with a letter.
+#Replaces 'A' with 'Z' and 'c' with 'e'.
