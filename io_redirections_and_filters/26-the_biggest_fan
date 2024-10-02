@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f1 nasa_19950801.tsv | uniq -u | head -n 11
+tail -n +2 nasa_19950801.tsv | cut -f1 | uniq -u | head -n 11
