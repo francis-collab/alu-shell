@@ -1,4 +1,5 @@
-# Task 2: Add /action to the PATH
+# Task 3: Count directories in PATH
 
 ## Description
-This script adds /action to the end of the existing PATH variable.
+This script counts the number of directories in the PATH variable by counting the colons (:) and adding 1.
+
