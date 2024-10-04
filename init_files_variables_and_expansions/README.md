@@ -1,1 +1,5 @@
-#a script that counts the number of directories in the PATH.
+# Task 4: List environment variables
+
+## Description
+This script lists all the environment variables using printenv.
+
