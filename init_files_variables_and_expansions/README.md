@@ -1,4 +1,4 @@
-# Task 0: Create an alias
+# Task 2: Add /action to the PATH
 
 ## Description
-This script creates an alias for the command ls to execute rm *, which will remove all files in the current directory when ls is run.
+This script adds /action to the end of the existing PATH variable.
