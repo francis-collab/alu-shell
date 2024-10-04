@@ -1,5 +1,5 @@
-# Task 6: Create a local variable
+# Task 7: Create a global variable
 
 ## Description
-This script creates a local variable named BEST with the value "School".
+This script creates a global variable named BEST with the value "School".
 
