@@ -1,5 +1,5 @@
-# Task 4: List environment variables
+# Task 5: List local and environment variables
 
 ## Description
-This script lists all the environment variables using printenv.
+This script lists all local and environment variables, along with functions.
 
