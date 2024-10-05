@@ -1,5 +1,5 @@
-# Task 7: Create a global variable
+# Task 8: Print addition of 128 with TRUEKNOWLEDGE
 
 ## Description
-This script creates a global variable named BEST with the value "School".
+This script adds 128 to the value of the environment variable TRUEKNOWLEDGE.
 
