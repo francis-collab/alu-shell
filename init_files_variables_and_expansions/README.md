@@ -1,5 +1,5 @@
-# Task 11: Convert binary to decimal
+# Task 13: Print number with two decimal places
 
 ## Description
-This script converts the binary number stored in the environment variable BINARY to decimal.
+This script prints the value of the environment variable NUM formatted to two decimal places.
 
