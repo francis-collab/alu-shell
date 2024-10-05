@@ -1,5 +1,5 @@
-# Task 8: Print addition of 128 with TRUEKNOWLEDGE
+# Task 9: Divide POWER by DIVIDE
 
 ## Description
-This script adds 128 to the value of the environment variable TRUEKNOWLEDGE.
+This script divides the value of the environment variable POWER by the value of DIVIDE.
 
