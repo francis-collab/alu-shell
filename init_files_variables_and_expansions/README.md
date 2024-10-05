@@ -1,2 +1,2 @@
-# Task 14: Convert Base 10 to Base 16
-This script converts a number stored in the environment variable `DECIMAL` from base 10 to base 16
+# Task 15: Encode/Decode with ROT13
+This script encodes and decodes text using the ROT13 cipher.
