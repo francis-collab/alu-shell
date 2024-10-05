@@ -1,5 +1,5 @@
-# Task 9: Divide POWER by DIVIDE
+# Task 10: Display BREATH to the power LOVE
 
 ## Description
-This script divides the value of the environment variable POWER by the value of DIVIDE.
+This script raises the value of the environment variable BREATH to the power of LOVE.
 
