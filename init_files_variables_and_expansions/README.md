@@ -1,5 +1,2 @@
-# Task 13: Print number with two decimal places
-
-## Description
-This script prints the value of the environment variable NUM formatted to two decimal places.
-
+# Task 3: Counting the Number of Directories in the PATH
+This script counts the number of directories in the `PATH` environment variable
