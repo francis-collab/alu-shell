@@ -1,2 +1,2 @@
-# Task 12: Print All Combinations of Two Letters (Except "oo")
-This script prints all possible combinations of two lowercase letters, except for "oo". The output is printed in alphabetical order
+# Task 14: Convert Base 10 to Base 16
+This script converts a number stored in the environment variable `DECIMAL` from base 10 to base 16
