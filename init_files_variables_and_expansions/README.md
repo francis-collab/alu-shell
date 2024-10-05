@@ -1,2 +1,1 @@
-# Task 15: Encode/Decode with ROT13
-This script encodes and decodes text using the ROT13 cipher.
+#A  script that encodes and decodes text using the rot13 encryption. 
