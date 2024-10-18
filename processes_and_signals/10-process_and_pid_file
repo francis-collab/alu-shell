@@ -10,10 +10,9 @@ cleanup() {
     exit
 }
 
-# Trap signals
-trap 'echo "I hate the kill command";' SIGTERM
-trap 'echo "Y U no love me?!";' SIGINT
-trap cleanup SIGQUIT SIGTERM
+# Trap signals and display messages
+trap 'echo "I hate the kill command"; cleanup' SIGTERM
+trap 'echo "Y U no love me?!"; cleanup' SIGINT
 
 # Infinite loop
 while true; do
