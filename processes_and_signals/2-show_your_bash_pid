@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This script displays lines containing the word bash to show the PID.
+ps -ef | grep bash | # shellcheck disable=SC2009
