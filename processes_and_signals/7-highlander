@@ -4,7 +4,7 @@
 # Function to handle SIGTERM
 handle_sigterm() {
     echo "I am invincible!!!"
-    exit 0  # Exit the script
+    # Do not exit; just return to the loop
 }
 
 # Trap SIGTERM signal
