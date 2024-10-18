@@ -1,8 +1,12 @@
 #!/usr/bin/env bash
-# This script displays the contents of the current directory, showing only the part after the first dash.
+# This script displays the names of files in the current directory, removing any prefix up to the first dash.
 
 for file in *; do
-  if [[ "$file" == *-* ]]; then
-    echo "${file#*-}"
+  if [[ -e "$file" ]]; then  # Check if the file exists
+    if [[ "$file" == *-* ]]; then  # Check if the file name contains a dash
+      echo "${file#*-}"  # Remove everything up to and including the first dash
+    else
+      echo "$file"  # Print the file name as it is
+    fi
   fi
 done
