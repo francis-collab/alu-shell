@@ -13,7 +13,7 @@ if [ -n "$pid" ]; then
         kill -9 "$pid"  # Send SIGKILL if it is still running
         echo "Process 7-highlander (PID $pid) has been forcefully stopped."
     else
-        echo "Process 7-highlander (PID $pid) has been stopped."
+        echo "Process 7-highlander (PID $pid) has been stopped gracefully."
     fi
 else
     echo "No PID found for 7-highlander."
