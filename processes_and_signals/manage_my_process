@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
-# This script indefinitely writes 'I am alive!' to a file and displays it in the terminal.
-
+# Continuously write "I am alive "
 while true; do
-    echo "I am alive!" | tee -a /tmp/my_process  # Display and append to the file
+    echo "I am alive!" >> /tmp/my_process
     sleep 2
 done
